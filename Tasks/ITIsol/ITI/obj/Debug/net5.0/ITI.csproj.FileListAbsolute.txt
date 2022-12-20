@@ -1,0 +1,16 @@
+C:\Users\عمرسالمعبدالرؤوفمحمد\source\repos\ITIsol\ITI\bin\Debug\net5.0\ITI.exe
+C:\Users\عمرسالمعبدالرؤوفمحمد\source\repos\ITIsol\ITI\bin\Debug\net5.0\ITI.deps.json
+C:\Users\عمرسالمعبدالرؤوفمحمد\source\repos\ITIsol\ITI\bin\Debug\net5.0\ITI.runtimeconfig.json
+C:\Users\عمرسالمعبدالرؤوفمحمد\source\repos\ITIsol\ITI\bin\Debug\net5.0\ITI.runtimeconfig.dev.json
+C:\Users\عمرسالمعبدالرؤوفمحمد\source\repos\ITIsol\ITI\bin\Debug\net5.0\ITI.dll
+C:\Users\عمرسالمعبدالرؤوفمحمد\source\repos\ITIsol\ITI\bin\Debug\net5.0\ITI.pdb
+C:\Users\عمرسالمعبدالرؤوفمحمد\source\repos\ITIsol\ITI\obj\Debug\net5.0\ITI.csproj.AssemblyReference.cache
+C:\Users\عمرسالمعبدالرؤوفمحمد\source\repos\ITIsol\ITI\obj\Debug\net5.0\ITI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\عمرسالمعبدالرؤوفمحمد\source\repos\ITIsol\ITI\obj\Debug\net5.0\ITI.AssemblyInfoInputs.cache
+C:\Users\عمرسالمعبدالرؤوفمحمد\source\repos\ITIsol\ITI\obj\Debug\net5.0\ITI.AssemblyInfo.cs
+C:\Users\عمرسالمعبدالرؤوفمحمد\source\repos\ITIsol\ITI\obj\Debug\net5.0\ITI.csproj.CoreCompileInputs.cache
+C:\Users\عمرسالمعبدالرؤوفمحمد\source\repos\ITIsol\ITI\obj\Debug\net5.0\ITI.dll
+C:\Users\عمرسالمعبدالرؤوفمحمد\source\repos\ITIsol\ITI\obj\Debug\net5.0\refint\ITI.dll
+C:\Users\عمرسالمعبدالرؤوفمحمد\source\repos\ITIsol\ITI\obj\Debug\net5.0\ITI.pdb
+C:\Users\عمرسالمعبدالرؤوفمحمد\source\repos\ITIsol\ITI\obj\Debug\net5.0\ITI.genruntimeconfig.cache
+C:\Users\عمرسالمعبدالرؤوفمحمد\source\repos\ITIsol\ITI\obj\Debug\net5.0\ref\ITI.dll

@@ -1,0 +1,37 @@
+﻿@{
+	Layout = "_MyLayout";
+}
+@model List<Department>
+<h1>Index</h1>
+<table class="table table-hover table-bordered">
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>Name</th>
+			<th>DeptMGR</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach(var dept in Model)
+		{
+			<tr>
+				<td>
+					@dept.Id
+				</td>
+				<td>
+					@dept.DeptName
+				</td>
+				<td>
+					@dept.MGRId
+				</td>
+			</tr>
+		}
+		
+	</tbody>
+</table>
+@section MyDesign{
+
+	<h2 style="color:cyan">Index Page</h2>
+
+
+}

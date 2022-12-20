@@ -1,0 +1,16 @@
+E:\Windows\ITI\summer2022\ITI\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.csproj.AssemblyReference.cache
+E:\Windows\ITI\summer2022\ITI\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Windows\ITI\summer2022\ITI\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.AssemblyInfoInputs.cache
+E:\Windows\ITI\summer2022\ITI\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.AssemblyInfo.cs
+E:\Windows\ITI\summer2022\ITI\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+E:\Windows\ITI\summer2022\ITI\ExaminationSystem\ExaminationSystem\bin\Debug\net5.0\ExaminationSystem.exe
+E:\Windows\ITI\summer2022\ITI\ExaminationSystem\ExaminationSystem\bin\Debug\net5.0\ExaminationSystem.deps.json
+E:\Windows\ITI\summer2022\ITI\ExaminationSystem\ExaminationSystem\bin\Debug\net5.0\ExaminationSystem.runtimeconfig.json
+E:\Windows\ITI\summer2022\ITI\ExaminationSystem\ExaminationSystem\bin\Debug\net5.0\ExaminationSystem.runtimeconfig.dev.json
+E:\Windows\ITI\summer2022\ITI\ExaminationSystem\ExaminationSystem\bin\Debug\net5.0\ExaminationSystem.dll
+E:\Windows\ITI\summer2022\ITI\ExaminationSystem\ExaminationSystem\bin\Debug\net5.0\ExaminationSystem.pdb
+E:\Windows\ITI\summer2022\ITI\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.dll
+E:\Windows\ITI\summer2022\ITI\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\refint\ExaminationSystem.dll
+E:\Windows\ITI\summer2022\ITI\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.pdb
+E:\Windows\ITI\summer2022\ITI\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.genruntimeconfig.cache
+E:\Windows\ITI\summer2022\ITI\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ref\ExaminationSystem.dll

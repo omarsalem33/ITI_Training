@@ -1,0 +1,31 @@
+﻿
+@model List<Department>
+<h1>Index</h1>
+<table class ="table table-hover table-bordered" >
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>DeptMGR</th>
+
+        </tr>
+     </thead>
+     <tbody>
+         @foreach (var dpet in Model)
+         {
+             <tr>
+                 <td>
+                     @dpet.Id
+                 </td>
+                 
+                 <td>
+                     @dpet.DpetName
+                 </td>
+                 
+                 <td>
+                     @dpet.MGRId
+                 </td>
+             </tr>
+         }
+     </tbody>
+</table>
